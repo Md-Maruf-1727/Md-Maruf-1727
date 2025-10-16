@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+# হেডার ১
+## হেডার ২
+### হেডার ৩
+
+**Bold text**  
+*Italic text*  
+
+- List item ১
+- List item ২
+
+[Link text](https://example.com)
+
+![Image alt](image_url)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Md-Maruf-1727&show_icons=true&theme=radical)
